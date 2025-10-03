@@ -1,14 +1,14 @@
 <h1 align="center">Oi 👋,Eu sou Celso Soares Cesar</h1>
 
-<h3 align="center">Apaixonado por Ciência e Análise de dados</h3>
+<h3 align="center">Apaixonado por Gestão de Automação Inteligência Artificial</h3>
 
-- 🔭Atualmemte estou trabalhando em projetos de análise e ciência de dados [Simulador_de_credito](https://github.com/Celsosoarescesar/Simulador_de_credito)
+- 🔭Atualmemte estou trabalhando em projetos de Gestâo de Automacão.
 
-- 🌱Atualmente estou aprendendo **Python,Power bi,Excel,SQL,Aprendizagem de máquina**
+- 🌱Atualmente estou aprendendo **Python, SQL, Inteligência Artificial**
 
 - 👨‍💻Todos os meus Projetos [https: //github.com/Celsosoarescesar](https://github.com/Celsosoarescesar)
 
-- 💬 Me pergunte sobre **Python,Power bi,Excel,SQL,Aprendizagem de máquina**
+- 💬 Me pergunte sobre **Python, SQL, Aprendizagem de máquina, Inteligência Artificial e Gestão de Automacão**
 
 - 📫 Você me acha através do e-mail **celsosc81@gmail.com**
 

@@ -13,7 +13,3 @@
 - 📫 Você me acha através do e-mail **celsosc81@gmail.com**
 
 - 📄link para o linkedin [www.linkedin.com/in/celso-soares-7481151a8](www.linkedin.com/in/celso-soares-7481151a8)
-
-<h3 align="left">Conecte-se comigo:</h3>
-
-<p align="left">

@@ -1,14 +1,14 @@
 <h1 align="center">Oi 👋,Eu sou Celso Soares Cesar</h1>
 
-<h3 align="center">Apaixonado por Gestão de Automação Inteligência Artificial</h3>
+<h3 align="center">Apaixonado por Música Generativa, Python, Reaper, Inteligência Artificial, PyTorch, Magenta e TensorFlow</h3>
 
-- 🔭Atualmemte estou trabalhando em projetos de Gestâo de Automacão.
+- 🔭Atualmente estou trabalhando em projetos de Gestão de Automação e Música Generativa com IA.
 
-- 🌱Atualmente estou aprendendo **Python, SQL, Inteligência Artificial**
+- 🌱Atualmente estou aprendendo **Python, SQL, Inteligência Artificial, PyTorch, Magenta, TensorFlow e Reaper**
 
-- 👨‍💻Todos os meus Projetos [https: //github.com/Celsosoarescesar](https://github.com/Celsosoarescesar)
+- 👨‍💻Todos os meus Projetos [https://github.com/Celsosoarescesar](https://github.com/Celsosoarescesar)
 
-- 💬 Me pergunte sobre **Python, SQL, Aprendizagem de máquina, Inteligência Artificial e Gestão de Automacão**
+- 💬 Me pergunte sobre **Python, Aprendizagem de máquina, Inteligência Artificial, Música Generativa, Reaper, PyTorch, Magenta, TensorFlow e Gestão de Automação**
 
 - 📫 Você me acha através do e-mail **celsosc81@gmail.com**
 
